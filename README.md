@@ -15,7 +15,7 @@ The pipeline simulates real-time stock market streaming by continuously sending 
 ## 🏗️ Architecture Diagram
 
 <p align="center">
-  <img src="images/architecture.png" width="100%">
+  <img src="architecture.png" width="100%">
 </p>
 
 ---
